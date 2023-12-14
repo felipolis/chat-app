@@ -1,0 +1,1 @@
+Nesse Diretorio serão armazenadas as imagens que serão recebidas do cliente.
