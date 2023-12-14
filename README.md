@@ -10,7 +10,7 @@ Bem-vindo à nossa aplicação de chat web! Aqui, você pode se cadastrar e cria
 * **Status dos Membros Online:** Visualize quem está atualmente conectado nos grupos.
 * **Indicação de Digitação:** Saiba quando alguém está digitando uma mensagem.
 
-### Technologies
+### Tecnologias
 
 * ReactJs, Mantine UI, Zustand, Apollo Client
 * Nestjs, Prisma, Postgres, GraphQL, Redis, Apollo Server
