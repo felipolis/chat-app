@@ -37,9 +37,14 @@ Bem-vindo à nossa aplicação de chat web! Aqui, você pode se cadastrar e cria
    npm install
    npm run start:dev
    ```
-5. Instale as dependencias do frontend e inicie o cliente
+5. Instale as dependencias do frontend e inicie o client
    ```bash
    cd frontend
    npm install
    npm run dev
+   ```
+6. Gere os arquivos do graphQL
+   ```bash
+   cd frontend
+   npx graphql-codegen --watch --verbose
    ```
