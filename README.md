@@ -28,6 +28,9 @@ Bem-vindo à nossa aplicação de chat web! Aqui, você pode se cadastrar e cria
    docker-compose up
    ```
 3. Preencha as varaveis de ambiente do backend com o que for de sua preferência
+   ```bash
+   cp .env.example .env
+   ```
 4. Instale as dependencias do backend e inicie o servidor
    ```bash
    cd backend
